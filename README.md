@@ -1,2 +1,3 @@
-# flash-8
-for the cool tutorials
+# Hey!
+this is an real copy of macromedia flash 8.
+i bought it.
